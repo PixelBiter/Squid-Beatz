@@ -1,3 +1,8 @@
 ["user://ChartFiles/BaseGame/1. Inkoming! - Wet Floor.txt",
 "user://ChartFiles/BaseGame/2. Rip Entry - Wet Floor.txt",
-"user://ChartFiles/BaseGame/3. Undertow - Wet Floor.txt"]
+"user://ChartFiles/BaseGame/3. Undertow - Wet Floor.txt",
+"user://ChartFiles/BaseGame/4. Don't Slip - Wet Floor.txt",
+"user://ChartFiles/BaseGame/5. Endolphin Surge - Wet Floor.txt",
+"user://ChartFiles/BaseGame/6. Now Or Never - Wet Floor.txt",
+"user://ChartFiles/BaseGame/7. Turf Master - Wet Floor.txt",
+"user://ChartFiles/BaseGame/8. Ink Another Day - Wet Floor.txt"]
