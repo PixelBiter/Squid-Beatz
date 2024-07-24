@@ -1,0 +1,7 @@
+{"user://Cosmetics/BaseStyle/Sprites/Dances/None.png":[2,1,1],
+"user://Cosmetics/BaseStyle/Sprites/Dances/Splat3Direct.png":[36,1,4],
+"user://Cosmetics/BaseStyle/Sprites/Dances/Splat3Macarena.png":[19,1,4],
+"user://Cosmetics/BaseStyle/Sprites/Dances/Splat2Boy.png":[10,8,8],
+"user://Cosmetics/BaseStyle/Sprites/Dances/Splatoon2Jelly.png":[10,6,8],
+"user://Cosmetics/BaseStyle/Sprites/Dances/Splat2Girl.png":[74,1,8],
+"user://Cosmetics/BaseStyle/Sprites/Dances/CuttlefishShuffle.png":[30,1,4]}
