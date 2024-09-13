@@ -1,0 +1,1 @@
+{"BPM":100,"Chart":[[],[],[],[],[]],"Dance":"user://Cosmetics/BaseStyle/Sprites/Dances/None.png","MusicLocation":"user://Music/BaseGame/Monkeys Spinning Monkeys.mp3","NotationD":4,"NotationType":0,"NotationU":4,"SongName":""}

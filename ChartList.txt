@@ -5,4 +5,16 @@
 "user://ChartFiles/BaseGame/5. Endolphin Surge - Wet Floor.txt",
 "user://ChartFiles/BaseGame/6. Now Or Never - Wet Floor.txt",
 "user://ChartFiles/BaseGame/7. Turf Master - Wet Floor.txt",
-"user://ChartFiles/BaseGame/8. Ink Another Day - Wet Floor.txt"]
+"user://ChartFiles/BaseGame/8. Ink Another Day - Wet Floor.txt",
+"user://ChartFiles/BaseGame/9. Low Tide.txt",
+"user://ChartFiles/BaseGame/10. Octo Canyon - Turquoise October.txt",
+"user://ChartFiles/BaseGame/11. Octo Eight-Step - Turquoise October.txt",
+"user://ChartFiles/BaseGame/12. The Girl From Inkopolis - Turquoise October.txt",
+"user://ChartFiles/BaseGame/13. Bouyant Boogie - Turquoise October.txt",
+"user://ChartFiles/BaseGame/14. Shooting Starfish - Turquoise October.txt",
+"user://ChartFiles/BaseGame/15. Octarmaments - Turquoise October.txt",
+"user://ChartFiles/BaseGame/16. Bomb Rush Blush - DJ Octavio feat. Callie.txt",
+"user://ChartFiles/BaseGame/17. Tidal Rush - DJ Octavio feat. Callie vs. Marie.txt",
+"user://ChartFiles/BaseGame/18. Spicy Calamari Inkantation - Squid Sisters.txt",
+"user://ChartFiles/BaseGame/19. Fresh Start - Squid Sisters.txt",
+"user://ChartFiles/BaseGame/Bonus. Ska-BLAM - Yoko & The Golden Bazookas.txt"]
